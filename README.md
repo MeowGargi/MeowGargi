@@ -1,8 +1,8 @@
-👋 Hello, I’m Gargi Parmar!
-🎓 Pursuing a Bachelor of Technology in Computer Science Engineering.
-💻 Well-versed in Object-Oriented Programming (OOP) with Java.
-🌱 Currently learning Spring & Spring Boot.
-🔍 Eager to collaborate on Website Development Projects.
+👋 Hello, I’m Gargi Parmar!**  
+- 🎓 Pursuing a Bachelor of Technology in Computer Science Engineering.  
+- 💻 Well-versed in Object-Oriented Programming (OOP) with Java.  
+- 🌱 Currently learning Spring & Spring Boot.  
+- 🔍 Eager to collaborate on Website Development Projects.  
 
 
 
